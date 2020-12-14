@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^1.1.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "name": "moulingapp-server",
+  "version": "1.0.0",
+  "description": "server de la moulinga",
+  "main": "index.js",
+  "author": "Ynohtna",
+  "license": "MIT"
+}
